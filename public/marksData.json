@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ayan Ahmed",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sara Rahman",
+    "marks": {
+      "physics": 91,
+      "chemistry": 88,
+      "math": 95
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rifat Hossain",
+    "marks": {
+      "physics": 72,
+      "chemistry": 69,
+      "math": 80
+    }
+  },
+  {
+    "id": 4,
+    "name": "Mim Chowdhury",
+    "marks": {
+      "physics": 89,
+      "chemistry": 94,
+      "math": 90
+    }
+  },
+  {
+    "id": 5,
+    "name": "Tanvir Hasan",
+    "marks": {
+      "physics": 76,
+      "chemistry": 83,
+      "math": 87
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nadia Islam",
+    "marks": {
+      "physics": 82,
+      "chemistry": 79,
+      "math": 88
+    }
+  },
+  {
+    "id": 7,
+    "name": "Farhan Kabir",
+    "marks": {
+      "physics": 95,
+      "chemistry": 90,
+      "math": 96
+    }
+  },
+  {
+    "id": 8,
+    "name": "Jannat Akter",
+    "marks": {
+      "physics": 68,
+      "chemistry": 72,
+      "math": 70
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ovi Rahman",
+    "marks": {
+      "physics": 78,
+      "chemistry": 85,
+      "math": 84
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mahin Sarker",
+    "marks": {
+      "physics": 88,
+      "chemistry": 91,
+      "math": 89
+    }
+  }
+]
